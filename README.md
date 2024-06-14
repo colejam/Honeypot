@@ -9,6 +9,7 @@ Autonomous log file creation detailing source IPs, command inputs, SSH key activ
 
 
 Utilized the ELK stack for creating visual representations of the collected data.
+
 <img width="485" alt="image" src="https://github.com/colejam/Honeypot/assets/163930716/bdb7a20b-3f62-42c6-8c57-03844a736df6">
 
 
